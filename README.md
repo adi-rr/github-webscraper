@@ -1,2 +1,2 @@
 # github-webscraper
-a simple script to scrape github repos (or pretty much any website)
+a simple python script using BeautifulSoup to scrape github repos (or pretty much any website)
